@@ -1,0 +1,20 @@
+ @media only screen and (min-width:0px) and (max-width:768px){
+ 	.d-flex{
+ 		flex-flow:column wrap;
+ 	}
+ 	.col-sm-3,.col-sm-6,.col-sm-4{
+ 		width:100%;
+ 		display:block;
+ 		margin:50px 0px;
+ 	}
+ 	.a-sup-1{
+ 		width:100%;
+ 		display:block;
+ 		margin:400px 0px;
+ 	}
+ 	.l-sup-1{
+ 		width:100%;
+ 		display:block;
+ 		margin:150px 0px;
+ 	}
+ }
